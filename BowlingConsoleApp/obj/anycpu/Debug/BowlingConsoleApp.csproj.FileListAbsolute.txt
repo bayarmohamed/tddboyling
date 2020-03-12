@@ -1,0 +1,10 @@
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingConsoleApp/bin/Debug/BowlingConsoleApp.exe
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingConsoleApp/bin/Debug/BowlingConsoleApp.pdb
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingConsoleApp/obj/anycpu/Debug/BowlingConsoleApp.exe
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingConsoleApp/obj/anycpu/Debug/BowlingConsoleApp.pdb
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingConsoleApp/bin/Debug/Bowling.Models.dll
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingConsoleApp/bin/Debug/Bowling.Models.pdb
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingConsoleApp/obj/anycpu/Debug/BowlingConsoleApp.csprojAssemblyReference.cache
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingConsoleApp/obj/anycpu/Debug/BowlingConsoleApp.csproj.CopyComplete
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingConsoleApp/bin/Debug/Ninject.dll
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingConsoleApp/bin/Debug/Ninject.xml

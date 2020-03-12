@@ -1,0 +1,8 @@
+/Users/utilisateur/Desktop/Bowling Score/Bowling/Bowling.Models/bin/Debug/Bowling.Models.dll
+/Users/utilisateur/Desktop/Bowling Score/Bowling/Bowling.Models/bin/Debug/Bowling.Models.pdb
+/Users/utilisateur/Desktop/Bowling Score/Bowling/Bowling.Models/obj/Debug/Bowling.Models.csprojAssemblyReference.cache
+/Users/utilisateur/Desktop/Bowling Score/Bowling/Bowling.Models/obj/Debug/Bowling.Models.dll
+/Users/utilisateur/Desktop/Bowling Score/Bowling/Bowling.Models/obj/Debug/Bowling.Models.pdb
+/Users/utilisateur/Desktop/Bowling Score/Bowling/Bowling.Models/bin/Debug/Ninject.dll
+/Users/utilisateur/Desktop/Bowling Score/Bowling/Bowling.Models/bin/Debug/Ninject.xml
+/Users/utilisateur/Desktop/Bowling Score/Bowling/Bowling.Models/obj/Debug/Bowling.Models.csproj.CopyComplete

@@ -1,0 +1,13 @@
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingTest/bin/Debug/BowlingTest.dll
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingTest/bin/Debug/BowlingTest.pdb
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingTest/bin/Debug/Bowling.Models.dll
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingTest/bin/Debug/nunit.framework.dll
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingTest/bin/Debug/Bowling.Models.pdb
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingTest/bin/Debug/nunit.framework.pdb
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingTest/bin/Debug/nunit.framework.xml
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingTest/obj/Debug/BowlingTest.csprojAssemblyReference.cache
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingTest/obj/Debug/BowlingTest.csproj.CopyComplete
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingTest/obj/Debug/BowlingTest.dll
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingTest/obj/Debug/BowlingTest.pdb
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingTest/bin/Debug/Ninject.dll
+/Users/utilisateur/Desktop/Bowling Score/Bowling/BowlingTest/bin/Debug/Ninject.xml

@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingConsoleApp", "BowlingConsoleApp\BowlingConsoleApp.csproj", "{24B96F5C-80B1-42BA-84EB-2DD304FE41BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowling.Models", "Bowling.Models\Bowling.Models.csproj", "{F37F98FC-6D5A-4EB6-8241-3E7E5630A255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingTest", "BowlingTest\BowlingTest.csproj", "{1333C3AA-FC0D-4148-9AEE-ABBB12BDBF4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24B96F5C-80B1-42BA-84EB-2DD304FE41BB}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{24B96F5C-80B1-42BA-84EB-2DD304FE41BB}.Debug|anycpu.Build.0 = Debug|anycpu
+		{24B96F5C-80B1-42BA-84EB-2DD304FE41BB}.Release|anycpu.ActiveCfg = Release|anycpu
+		{24B96F5C-80B1-42BA-84EB-2DD304FE41BB}.Release|anycpu.Build.0 = Release|anycpu
+		{F37F98FC-6D5A-4EB6-8241-3E7E5630A255}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{F37F98FC-6D5A-4EB6-8241-3E7E5630A255}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{F37F98FC-6D5A-4EB6-8241-3E7E5630A255}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{F37F98FC-6D5A-4EB6-8241-3E7E5630A255}.Release|anycpu.Build.0 = Release|Any CPU
+		{1333C3AA-FC0D-4148-9AEE-ABBB12BDBF4F}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{1333C3AA-FC0D-4148-9AEE-ABBB12BDBF4F}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{1333C3AA-FC0D-4148-9AEE-ABBB12BDBF4F}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{1333C3AA-FC0D-4148-9AEE-ABBB12BDBF4F}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
